@@ -1,12 +1,15 @@
 # 👋 Olá, eu sou o Henry Zanin!
 
-Hey there, I'm Henry Zanin — a passionate **Software Architect & Backend Developer** from Brazil, always ready to solve problems and turn ideas into reality!
+![Banner animado](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arquiteto%20de%20Software%20Backend&fontSize=40&animation=fadeIn)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henrygoeszanin&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</div>
 
 ## 🚀 Sobre mim | About Me
 
 - 🎯 **Arquiteto de software especializado em backend**  
-  Software Architect specialized in backend
-- 💡 **Problem solver** • **Communication skills**  
+- 💡 **Problem solver** • **Team Leader** • **Communication skills**  
   Gosto de resolver problemas, liderar times e trabalhar com pessoas.
 - 📚 Sempre aprendendo: adoro iniciar projetos novos para explorar tecnologias ou tirar ideias do papel.
 
@@ -18,23 +21,28 @@ Hey there, I'm Henry Zanin — a passionate **Software Architect & Backend Devel
 - **Sistema de Assistência Médica - Prefeitura Municipal de Passos**  
   Novo sistema para a assistência médica dos servidores municipais, em funcionamento até hoje.
 
-## 🛠️ Principais Tecnologias | Main Tech Stack
+## 🛠️ Stack Tecnológica
 
-- **NodeJS** | **NestJS** | **Fastify** | **Prisma** | **Socket.IO**
-- **Golang** (GIN)
-- **C# / .NET**
-- **Python** (Flask, Django)
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket.IO"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoeszanin&layout=compact&theme=radical" alt="Top Linguagens" />
+</div>
 
 ## 🌟 Soft Skills
 
 - Habilidade de liderança e comunicação
 - Resolução de problemas complexos
 - Facilidade de trabalhar em equipe e com pessoas
-
-## 💬 Idiomas | Languages
-
-- 🇧🇷 Português (nativo)
-- 🇺🇸 English (intermediário/avançado)
 
 ## 🎮 Hobbies & Curiosidades | Fun Facts
 
@@ -48,10 +56,11 @@ Hey there, I'm Henry Zanin — a passionate **Software Architect & Backend Devel
 
 ---
 
-> “Backend isn’t just about code, it’s about making things work for real people.”  
-> _Backend não é só código, é sobre fazer as coisas funcionarem para pessoas de verdade._
+> "Backend não é só código, é sobre fazer as coisas funcionarem para pessoas de verdade."
 
----
+<div align="center">
+  <img src="https://profile-counter.glitch.me/henrygoeszanin/count.svg" alt="Contador de Visitantes" />
+</div>
 
-### Obrigado pela visita!
-Se quiser trocar uma ideia, colaborar ou conhecer meus projetos, fique à vontade para entrar em contato!
+<!-- Snake animation que "come" os quadradinhos do seu gráfico de contribuições -->
+![Snake animation](https://github.com/henrygoeszanin/henrygoeszanin/blob/output/github-contribution-grid-snake.svg)
