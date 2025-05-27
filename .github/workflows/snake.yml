@@ -5,6 +5,10 @@ on:
     - cron: "0 */12 * * *" # Executa a cada 12 horas
   workflow_dispatch:
 
+# Configuração crucial de permissões
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
