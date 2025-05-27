@@ -6,7 +6,7 @@ Hey there, I'm Henry Zanin — a passionate **Software Architect & Backend Devel
 
 - 🎯 **Arquiteto de software especializado em backend**  
   Software Architect specialized in backend
-- 💡 **Problem solver** • **Team Leader** • **Communication skills**  
+- 💡 **Problem solver** • **Communication skills**  
   Gosto de resolver problemas, liderar times e trabalhar com pessoas.
 - 📚 Sempre aprendendo: adoro iniciar projetos novos para explorar tecnologias ou tirar ideias do papel.
 
