@@ -52,7 +52,7 @@
 
 ## 🌐 Social
 
-- [LinkedIn](#) *(atualize aqui quando quiser!)*
+- [LinkedIn](#)
 
 ---
 
