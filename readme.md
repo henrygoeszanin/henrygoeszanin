@@ -49,6 +49,3 @@
 - 🎮 Jogador de jogos eletrônicos nas horas vagas
 - 🧑‍💻 Sempre começando projetos novos para aprender ou experimentar ideias
 - 🤝 Curtir bons momentos com amigos faz parte da rotina!
-
-<!-- Snake animation que "come" os quadradinhos do seu gráfico de contribuições -->
-![Snake animation](https://github.com/henrygoeszanin/henrygoeszanin/blob/output/github-contribution-grid-snake.svg)
