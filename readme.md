@@ -50,9 +50,5 @@
 - 🧑‍💻 Sempre começando projetos novos para aprender ou experimentar ideias
 - 🤝 Curtir bons momentos com amigos faz parte da rotina!
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/henrygoeszanin/count.svg" alt="Contador de Visitantes" />
-</div>
-
 <!-- Snake animation que "come" os quadradinhos do seu gráfico de contribuições -->
 ![Snake animation](https://github.com/henrygoeszanin/henrygoeszanin/blob/output/github-contribution-grid-snake.svg)
