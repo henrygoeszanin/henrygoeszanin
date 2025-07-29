@@ -50,14 +50,6 @@
 - 🧑‍💻 Sempre começando projetos novos para aprender ou experimentar ideias
 - 🤝 Curtir bons momentos com amigos faz parte da rotina!
 
-## 🌐 Social
-
-- [LinkedIn](#)
-
----
-
-> "Backend não é só código, é sobre fazer as coisas funcionarem para pessoas de verdade."
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/henrygoeszanin/count.svg" alt="Contador de Visitantes" />
 </div>
