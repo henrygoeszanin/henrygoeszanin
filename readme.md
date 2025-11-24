@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Henry Zanin!
 
-![Banner animado]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arquiteto%20de%20Software%20Backend&fontSize=40&animation=fadeIn](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Software%20developer))
+![Banner animado](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arquiteto%20de%20Software%20Backend&fontSize=40&animation=fadeIn](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Software%20developer)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henrygoeszanin&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
