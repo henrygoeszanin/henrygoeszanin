@@ -5,7 +5,6 @@ on:
     - cron: "0 0 * * *" # Executa a cada 24 horas
   workflow_dispatch:
 
-# Configuração crucial de permissões
 permissions:
   contents: write
 
