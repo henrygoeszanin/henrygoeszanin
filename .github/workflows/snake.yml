@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
+    - cron: "0 0 * * *" # Executa a cada 24 horas
   workflow_dispatch:
 
 # Configuração crucial de permissões
@@ -11,9 +11,9 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - uses: Platane/snk@master
         id: snake-gif
